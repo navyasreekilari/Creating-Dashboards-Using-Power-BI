@@ -1,0 +1,13 @@
+Power BI allows you to view, analyze and visualize huge quantities of data that cannot be opened in Excel.
+It uses powerful compression algorithms to import and cache the data within .PBIX file.
+Power BI makes things visually appealing. 
+Anyone who is familiar with Office 365 can easily connect excel queries, data models, and reports to power bi dashboards.
+Using Power Bi with Azure helps to analyze and share large volumes of data. With Azure data lakes we can reduce the time it takes to get insights and increase collaboration between business analysts, data engineers and data scientists
+Power BI fetches data from factory sensors and social media sources to get access to real-time analytics so we are always ready to make timely business decisions.
+
+DATA ----->(Using Power BI) ------> Visualization
+
+Features of Power BI:
+1) Power BI Desktop: Allows you to built report by accessing data easily. You donot need any advanced report designing or query skills to report.
+2) Stream Analytics: It supports real time analytics to make timely decisions.\\
+3) Support for Multiple data sources: It supports various sources of data such as Excel, csv, SQL server, web files etc to create interactive visualizations.
