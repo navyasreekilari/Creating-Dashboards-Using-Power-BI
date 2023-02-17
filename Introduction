@@ -11,3 +11,14 @@ Features of Power BI:
 1) Power BI Desktop: Allows you to built report by accessing data easily. You donot need any advanced report designing or query skills to report.
 2) Stream Analytics: It supports real time analytics to make timely decisions.\\
 3) Support for Multiple data sources: It supports various sources of data such as Excel, csv, SQL server, web files etc to create interactive visualizations.
+4) Custom Visualization: We can access custom library of visualization that meets our needs.
+
+Various components of Power Bi:
+1) Power Query: It is the data transformation and mash up engine. It can be downloaded as an add-in for excel or be used as part of Power BI desktop.
+2) Power Pivot: It is a data modeling technology and caluclation engine. It uses DAX language to model simple and complex data.
+3) Power view: It is the data visualization component that can connect to data sources and can filter data for each data visualization element or for the entire report.
+4) Power Map: It is used to visualize geospatial data in 3D mode.
+5) Power BI Desktop: It is a development tool for Power Query, Power Pivot and Power View.
+6) Power Q&A: It is a natural Language engine for question and answers to data model. 
+
+Power BI dashboard is a "single page visualization" to tell as tory
