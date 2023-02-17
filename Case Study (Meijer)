@@ -1,0 +1,7 @@
+Power BI Case Study:
+---> Meijer Connected Power BI to an on-premises SQL server Analysis Services cube.
+---> It allowed them to refresh 20 billion rows of data in near real time.
+---> With Power BI, teams can pull in the data faster and perform real-time analysis to derive insights from the data.
+---> Bakery department inside meijer's used Power BI to compare its sales with regional performance.
+---> They analyzed where Meijer was behind the regional trends, focus on the probelm and create solution.
+---> Using Power BI, they can drill down into hourly sales and send out sales flash to 800 Meijer business leaders.
